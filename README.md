@@ -1,5 +1,5 @@
 # Cdados
 
-Projeto Twitter
-conta: @PauloChade
-Produto: Iphone
+Projeto Twitter;
+conta: @PauloChade;
+Produto: Iphone;
